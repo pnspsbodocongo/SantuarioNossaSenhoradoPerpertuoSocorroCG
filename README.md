@@ -1,5 +1,5 @@
-# siteparoquiansf
-Projeto realizado junto a Paroquia Nossa Senhora de Fátima, residida no município de Franco da Rocha, SP.  
+# SANTUARIO NOSSA SENHORA DO PEPERTUO SOCORRO
+Projeto realizado junto a Paroquia Nossa Senhora do pepertuo Socorro, residida em Campina Grande,PB
 
 # Objetivo :
 O intuito da realização desse projeto é facilitar o acesso às informações importantes para os membros e visitantes da igreja. 
